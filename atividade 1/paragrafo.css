@@ -1,0 +1,15 @@
+p strong{
+    color: red;
+}
+
+.destaque{
+    width: 35%;
+    height: 35px;
+    background-color: blanchedalmond;
+    padding-left: 10px;
+    padding-top: 15px;
+}
+
+#unico{
+    font-weight: bold;
+}

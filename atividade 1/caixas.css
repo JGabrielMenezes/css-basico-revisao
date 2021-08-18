@@ -1,0 +1,42 @@
+#div1 {
+    background-color: red;
+    border: solid green 5px;
+    width: 55%;
+    height: 100px;
+}
+
+#div2 {
+    border: solid 1px;
+    width: 55.9%;
+    height: 100px;
+}
+
+
+#div3 {
+    background-color: rgb(153, 113, 248);
+    border: solid 1px;
+    width: 55.9%;
+    height: 100px;
+}
+
+#li1 {
+    color: green;
+    text-decoration: underline black;
+}
+
+#li2 {
+    text-decoration: underline black;
+}
+
+#li3 {
+    color: yellow;
+    text-decoration: underline black;
+}
+
+#div4 {
+    background-color: orange;
+    border: solid brown 5px;
+    font-size: 30px;
+    width: 55%;
+    height: 100px;
+}

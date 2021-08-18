@@ -1,0 +1,37 @@
+.name1 {
+    color: red;
+    background-color: cadetblue;
+}
+
+.name2 {
+    color: green;
+    background-color: cornsilk;
+}
+
+.name3 {
+    color: blue;
+    background-color: darkkhaki;
+}
+
+#name {background-color:blueviolet;}
+
+#title {background-color: brown;}
+
+.nmb1 {
+    background-color: darkmagenta;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.nmb2 {background-color: darkolivegreen;}
+
+.nmb3 {background-color: darkorange;}
+
+.numero{font-weight: bold;}
+
+h1{text-align: right;}
+
+span{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+table{margin: auto;}
